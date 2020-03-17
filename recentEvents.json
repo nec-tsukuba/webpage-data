@@ -1,15 +1,17 @@
 {
-  "nextEvent":{
+  "nextEvent":
+  {
+    "title":"動いて感じろ！ねっしーとからだのふしぎ",
+    "poster":"",
+    "message":"",
+    "applyMessage":"",
+    "applyURL":""
+  },
+  "lastEvent":
+  {
     "title":"ねっしーと とびだせ！世界一周トラベリング",
     "poster":"https://www.dropbox.com/s/hi4fcgzlqksdwg2/202002_%E6%9C%AA%E5%9C%A7%E7%B8%AE.jpg?dl=1",
     "message":"世界にいるお友達はどうやって暮らしているのかな？<br/>まだ見ぬ世界へとびだしてみよう！！<br/>☆ピザ作り、楽器演奏などを通して世界の文化について学びます。",
-    "applyMessage":"このイベントは終了しました。",
-    "applyURL":""
-   },
-  "lastEvent":{
-    "title":"ねっしーと宇宙をのぞいてみよう",
-    "poster":"https://www.dropbox.com/s/njfx627undio69m/201912.png?dl=1",
-    "message":"冬の夜空には何が見えるかな？<br/>自分だけの望遠鏡で不思議な宇宙をのぞいてみよう！<br/>",
     "applyMessage":"このイベントは終了しました。",
     "applyURL":""
    }

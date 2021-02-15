@@ -1,18 +1,18 @@
 {
   "nextEvent":
   {
+    "title":"ねっしーと目指せ！どうぶつハカセ！",
+    "poster":"https://www.dropbox.com/s/1mz02fffoe9b40a/202103.jpg?dl=1",
+    "message":"つよいどうぶつ、かわいいどうぶつ！ねっしーといろいろなどうぶつをまなんでみよう！",
+    "applyMessage":"こちらから応募できます(googleフォーム)。",
+    "applyURL":"https://docs.google.com/forms/d/e/1FAIpQLSfJv33wgrALWVcWDJLiSwwmyfAnCK-Qv4jqQIDI1pxyEdad3Q/viewform"
+  },
+  "lastEvent":
+  {
     "title":"動いて感じろ！ねっしーとからだのふしぎ",
     "poster":"https://www.dropbox.com/s/a4yz6pvi6f1quhi/202005_%E6%9C%AA%E5%9C%A7%E7%B8%AE.jpg?dl=1",
     "message":"運動はたのしい？たいへん？<br/>からだのしくみを知ることで運動はもっとたのしくなる！",
     "applyMessage":"このイベントは中止になりました。",
     "applyURL":"https://docs.google.com/forms/d/e/1FAIpQLSePWzscOYaCmg1VobL2IRjYhNJ5z_ffHNO-O2-vjn6G6f-1IQ/viewform"
-  },
-  "lastEvent":
-  {
-    "title":"ねっしーと とびだせ！世界一周トラベリング",
-    "poster":"https://www.dropbox.com/s/hi4fcgzlqksdwg2/202002_%E6%9C%AA%E5%9C%A7%E7%B8%AE.jpg?dl=1",
-    "message":"世界にいるお友達はどうやって暮らしているのかな？<br/>まだ見ぬ世界へとびだしてみよう！！<br/>☆ピザ作り、楽器演奏などを通して世界の文化について学びます。",
-    "applyMessage":"このイベントは終了しました。",
-    "applyURL":""
-   }
+  }
 }

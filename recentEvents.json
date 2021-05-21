@@ -1,18 +1,18 @@
 {
   "nextEvent":
   {
-    "title":"ねっしーと目指せ！どうぶつハカセ！",
-    "poster":"https://www.dropbox.com/s/vi40rvenam5h8cc/202103.jpg?dl=1",
-    "message":"つよいどうぶつ、かわいいどうぶつ！<br/>ねっしーといろいろなどうぶつをまなんでみよう！<br/>※今回はZoomを用いたオンラインイベントとなります。",
-    "applyMessage":"受付は終了しました。",
-    "applyURL":""
+    "title":"ねっしーと 命を守れ！防災大作戦",
+    "poster":"",
+    "message":"地震！雷！火事！おやじ...！？<br>ねっしーともしものために備えよう！",
+    "applyMessage":"現在応募受付中です。(受付フォームはこちら)",
+    "applyURL":"https://docs.google.com/forms/d/e/1FAIpQLSeAkdPy48U4c4DAEZnMbj13Osx1YzkaRFFap9PyzNYtEiqyPg/viewform"
   },
   "lastEvent":
   {
-    "title":"動いて感じろ！ねっしーとからだのふしぎ",
-    "poster":"https://www.dropbox.com/s/a4yz6pvi6f1quhi/202005_%E6%9C%AA%E5%9C%A7%E7%B8%AE.jpg?dl=1",
-    "message":"運動はたのしい？たいへん？<br/>からだのしくみを知ることで運動はもっとたのしくなる！",
-    "applyMessage":"このイベントは中止になりました。",
-    "applyURL":"https://docs.google.com/forms/d/e/1FAIpQLSePWzscOYaCmg1VobL2IRjYhNJ5z_ffHNO-O2-vjn6G6f-1IQ/viewform"
+    "title":"ねっしーと目指せ！どうぶつハカセ！",
+    "poster":"https://www.dropbox.com/s/vi40rvenam5h8cc/202103.jpg?dl=1",
+    "message":"つよいどうぶつ、かわいいどうぶつ！<br>ねっしーといろいろなどうぶつをまなんでみよう！<br>※今回はZoomを用いたオンラインイベントとなります。",
+    "applyMessage":"受付は終了しました。",
+    "applyURL":""
   }
 }

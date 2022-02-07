@@ -1,18 +1,18 @@
 {
   "nextEvent":
   {
-    "title":"ねっしースポーツフェスティバル2021<br>みんなでつなぐえがおの輪",
-    "poster":"https://www.dropbox.com/s/1jrortdhcke86ke/202108.jpg?dl=1",
-    "message":"ねっしーと一緒にからだを動かす楽しさを感じよう！",
-    "applyMessage":"受付は終了しました。たくさんの応募ありがとうございました！",
-    "applyURL":""
+        "title": "ねっしーと 縄文どきどきタイムトラベル",
+        "poster": "https://www.dropbox.com/s/gnh3ltu14vn8jlz/202203.jpg?dl=0?dl=0&raw=1",
+        "message": "ねっしーと縄文時代の人々の文化を体験しよう！",
+        "applyMessage":"受付は終了しました。たくさんの応募ありがとうございました！",
+        "detail": "https://www.dropbox.com/s/o4qzko3a5ge3w0i/202203.pdf?dl=0?dl=0&raw=1"
   },
   "lastEvent":
   {
-    "title":"ねっしーと 命を守れ！防災大作戦",
-    "poster":"https://www.dropbox.com/s/jcvqk74o4xy988v/202107.jpg?dl=1",
-    "message":"地震！雷！火事！おやじ...！？<br>ねっしーと、もしものために備えよう！",
-    "applyMessage":"受付は終了しました。",
+    "title":"ねっしースポーツフェスティバル2021<br>みんなでつなぐえがおの輪",
+    "poster":"https://www.dropbox.com/s/1jrortdhcke86ke/202108.jpg?dl=0&raw=1",
+    "message":"ねっしーと一緒にからだを動かす楽しさを感じよう！",
+    "applyMessage":"受付は終了しました。たくさんの応募ありがとうございました！",
     "applyURL":""
   }
 }
